@@ -1,4 +1,4 @@
-# My Fullstack App
+npm install# My Fullstack App
 
 This project is a fullstack application built with Node.js for the backend and React for the frontend. It includes a registration and login system where users can register with their name, email, and NIF. A confirmation code is sent to the provided email, and users are registered with a default password that is communicated via email.
 
